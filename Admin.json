@@ -1,0 +1,51 @@
+{
+    "621": {
+        "food_name": "Samosa",
+        "Quentity": "4 Pieces ",
+        "Price": 25,
+        "Discount": 1,
+        "Stock": 1234
+    },
+    "072": {
+        "food_name": "Dosa",
+        "Quentity": "1 Pieces",
+        "Price": 60,
+        "Discount": 1,
+        "Stock": 5642
+    },
+    "089": {
+        "food_name": "Idly",
+        "Quentity": "6 Piece",
+        "Price": 40,
+        "Discount": 1,
+        "Stock": 789
+    },
+    "834": {
+        "food_name": "Meggi",
+        "Quentity": "1 Full Plate",
+        "Price": 50,
+        "Discount": 2,
+        "Stock": 456
+    },
+    "462": {
+        "food_name": "Momos",
+        "Quentity": "4 Pieces",
+        "Price": 30,
+        "Discount": 1,
+        "Stock": 8912
+    },
+    "182": {
+        "food_name": "Chicken ",
+        "Quentity": "4 Piece",
+        "Price": 450,
+        "Discount": 3,
+        "Stock": 45646
+    },
+    "043": {
+        "food_name": "Bugger ",
+        "Quentity": "1 Pices",
+        "Price": 60,
+        "Discount": 1,
+        "Stock": 456
+    }
+}
